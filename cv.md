@@ -6,7 +6,7 @@
 - Skype: bosjack
 
 ## About Myself
-I am a fat seal in the frontend sea
+I am a little shrimp in the frontend sea.
 
 ## Skills and Proficiency
 * HTML5, CSS3
