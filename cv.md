@@ -1,19 +1,20 @@
 # Serhii Stotskyi
 
-##Contact information
-Phone: +38 (097) 888-02-40
-E-mail: bosjack.mob@gmail.com
-Skype: bosjack
+## Contact information
+- Phone: +38 (097) 888-02-40 
+- E-mail: bosjack.mob@gmail.com 
+- Skype: bosjack
 
-##Briefly About Myself
+## About Myself
+I am a fat seal in the frontend sea
 
-##Skills and Proficiency
-HTML5, CSS3
-JavaScript Basics
-Git, GitHub
-PHP, Bitrix CMS
+## Skills and Proficiency
+* HTML5, CSS3
+* JavaScript basics, React basics
+* Git, GitHub
+* PHP, Bitrix CMS
 
-##Code example
+## Code example
 *Switcher to filter*
 ```
 import React from 'react'
@@ -30,9 +31,9 @@ const Availability = () => {
 export default Availability
 ```
 
-##Experience
-Backend developer - some years
-##Languages
-English - Basic
-Russian - Intermediate
-Ukrainian - Native
+## Experience
+I have some years backend development expierence.
+## Languages
+1. Ukrainian - Native
+2. English - Basic
+3. Russian - Intermediate
